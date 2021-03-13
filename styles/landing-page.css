@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family:'Raleway', sans-serif;
+}
+.m01{
+  padding: 0;
+}
+#my-nav-items{
+  color: #EDF2F4;
+}
+.my-brand{
+  font-weight: 500;
+  font-size: 1.4em;
+  letter-spacing: 2px;
+  margin-left: 0.5em;
+}
+
+.my-container{
+  margin-left: auto;
+}
+
+.nav-elem{
+  margin: 0.2em 1em;
+  font-size: 1.1em;
+
+}
+.my-navbar{
+  background-color: #2B2D42;
+  height: 8vh;
+}
+nav{
+  padding: 0;
+}
+.carousel-item img{
+  height: 92vh;
+  width: 100vw;
+}
