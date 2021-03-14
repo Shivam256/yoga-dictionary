@@ -17,7 +17,7 @@ body {
 }
 #my-nav-items {
   /* color: #edf2f4; */
-  color:#2b2d42;
+  color:#1d3557;
   letter-spacing: 3px;
   transition: all 0.5s linear;
 }
@@ -25,17 +25,18 @@ body {
   transform: scale(1.1);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   font-weight: 500;
-  border: 1px solid #2b2d42;
+  border: 1px solid #1d3557;
 }
 
-.my-brand {
+#my-brand {
   font-weight: 500;
   font-size: 1.5em;
   letter-spacing: 3px;
   margin-left: 0.2em;
   font-family: 'Comfortaa', cursive;
   padding: 0.2em 0.5em;
-  color:#2b2d42;;
+  /* color:#2b2d42; */
+  color: #1d3557;
 }
 
 .my-container {
@@ -50,7 +51,7 @@ body {
   /* background-color: #2b2d42; */
   background-color: rgba(255, 255, 255, 0.719);
   height: 8vh;
-  border-bottom: 1px solid #2b2d42;
+  border-bottom: 1px solid #1d3557;
 }
 nav {
   padding: 0;
@@ -65,19 +66,19 @@ nav {
   /* background-color: #F25E00; */
   background-color: #fff;
   margin: 0em 0 4em;
-  border-radius: 10%;
+  border-radius: 5%;
   overflow: hidden;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 #my-card:hover {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  transform: scale(1.1);
+  transform: scale(1.08);
 }
 #my-card-title {
   text-align: center;
   font-weight: 600;
   font-size: 1.5em;
-  color:#2b2d42 ;
+  color:#1d3557 ;
   /* text-transform: lowercase;
   font-family: 'Comfortaa', cursive; */
 }
