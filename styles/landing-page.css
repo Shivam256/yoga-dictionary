@@ -1,48 +1,71 @@
-*{
+* {
   padding: 0;
   margin: 0;
-  font-family:'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
+  transition: all 0.5s ease-in-out;
+  text-decoration: none;
 }
-body{
-  background-color: #EDF2F4;
+a{
+  text-decoration: none;
 }
-.m01{
+body {
+  background-color: #edf2f4;
+}
+.m01 {
   padding: 0;
 }
-#my-nav-items{
-  color: #EDF2F4;
+#my-nav-items {
+  color: #edf2f4;
 }
-.my-brand{
+.my-brand {
   font-weight: 500;
   font-size: 1.4em;
   letter-spacing: 2px;
   margin-left: 0.5em;
 }
 
-.my-container{
+.my-container {
   margin-left: auto;
 }
 
-.nav-elem{
+.nav-elem {
   margin: 0.2em 1em;
   font-size: 1.1em;
-
 }
-.my-navbar{
-  background-color: #2B2D42;
+.my-navbar {
+  background-color: #2b2d42;
   height: 8vh;
 }
-nav{
+nav {
   padding: 0;
 }
-.carousel-item img{
-  height: 92vh;
-  /* margin: 1em auto; */
-  max-width: 100vw;
+.carousel-item img {
+  height: 60vh;
+  margin: 6em auto 2em auto;
+  max-width: 90vw;
+
+}
+#my-card{
+  min-height: 30vh;
+  /* background-color: #F25E00; */
+  background-color: #2b2d42;
+  margin: 0em 0 4em;
+  border-radius: 15%;
+  overflow: hidden;
+}
+#my-card:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transform: scale(1.1);
+}
+#my-card-title {
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.5em;
+  color: white;
 }
 
-
-.example{
-  box-shadow: #959da533 0px 8px 24px;
-  box-shadow: #32325d40 0px 6px 12px -2px, #0000004d 0px 3px 7px -3px;
+.carousal-txt {
+  text-transform: uppercase;
+  font-family: 'Spartan', sans-serif;
+  font-weight: 700;
 }
