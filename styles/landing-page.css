@@ -19,7 +19,7 @@ body {
   /* color: #edf2f4; */
   color:#1d3557;
   letter-spacing: 3px;
-  transition: all 0.5s linear;
+  transition: all 0.4s linear;
 }
 #my-nav-items:hover{
   transform: scale(1.1);
@@ -70,6 +70,7 @@ nav {
   border-radius: 5%;
   overflow: hidden;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+ 
 }
 #my-card:hover {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
