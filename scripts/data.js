@@ -1,3 +1,5 @@
+const sayHii = (hisName) => {alert(`Hii ${hisName}`);}
+
 const data =[
   {
     "id":1,
