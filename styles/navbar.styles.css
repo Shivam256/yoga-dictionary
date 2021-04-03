@@ -5,6 +5,7 @@
   transition: all 0.5s ease-in-out;
   text-decoration: none;
   letter-spacing: 3px;
+  box-sizing: border-box;
 }
 a{
   text-decoration: none;
@@ -25,8 +26,12 @@ body {
   transform: scale(1.1);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   font-weight: 500;
-  /* border: 1px solid #1d3557; */
+  color: #B3233B;
+  border:0.5px solid #B3233B;
+  
 }
+
+
 
 #my-brand {
   font-weight: 500;

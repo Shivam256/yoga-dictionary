@@ -22,6 +22,7 @@
   overflow-y: scroll;
   background-color: rgb(255, 255, 255);
   box-sizing: content-box;
+  /* background-color: rgb(209, 54, 54); */
 }
 
 #asana-container::-webkit-scrollbar{
@@ -66,7 +67,6 @@ input{
   border: 2px solid rgb(179, 35, 59);
   color: #B3233B;
   border-radius: 20px;
-
 }
 input:focus{
   outline: none;
