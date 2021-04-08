@@ -23,7 +23,7 @@ const createAsanaCard = (asana) => {
   // asanaIcon.style.backgroundImage = `url("../assets/icons/ICON${asana.id}.png")`
   asanaIcon.setAttribute("src", `../assets/icons/ICON${asana.id}.png`);
   asanaIcon.classList.add("asana-image");
-  if (asana.id == 4) {
+  if (asana.id == 4|| asana.id == 17) {
     asanaIcon.classList.remove("asana-image");
     asanaIcon.classList.add("asana4-image");
   }
