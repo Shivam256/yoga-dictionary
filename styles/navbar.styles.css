@@ -20,15 +20,21 @@ body {
   /* color: #edf2f4; */
   color:#1d3557;
   letter-spacing: 3px;
-  transition: all 0.4s linear;
+  transition: all 0.1s linear;
 }
 #my-nav-items:hover{
-  transform: scale(1.1);
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  /* transform: scale(1.1); */
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
   font-weight: 500;
   color: #B3233B;
   border:0.5px solid #B3233B;
   
+}
+
+.active-elem{
+  font-weight: 500;
+  color: #B3233B !important;
+  /* border:0.5px solid #B3233B; */
 }
 
 
@@ -49,7 +55,8 @@ body {
 }
 
 .nav-elem {
-  margin: 0.2em 1em;
+
+  margin: 0.2em 1.2em;
   font-size: 1.1em;
 }
 .my-navbar {
