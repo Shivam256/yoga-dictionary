@@ -21,9 +21,12 @@ const createAsanaCard = (asana) => {
 
   const asanaIcon = document.createElement("img");
   // asanaIcon.style.backgroundImage = `url("../assets/icons/ICON${asana.id}.png")`
-  asanaIcon.setAttribute("src", `../assets/icons/ICON${asana.id}.png`);
+  let url = `../assets/icons/ICON${asana.id}.png`;
+  // ../assets/icons/ICON${asana.id}.png
+  asanaIcon.setAttribute("src", url);
   asanaIcon.classList.add("asana-image");
-  if (asana.id == 4|| asana.id == 17) {
+  let spcAsanasId = [4,17,20,43,25];
+  if (spcAsanasId.includes(asana.id)) {
     asanaIcon.classList.remove("asana-image");
     asanaIcon.classList.add("asana4-image");
   }
