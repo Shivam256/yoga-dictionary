@@ -14,24 +14,6 @@ const data = [
     "description":"The body comes into a V-shape, balancing entirely on the buttocks. In different variations and traditions, the arms, legs and torso may take different positions. In Paripurna Navasana, the legs and back are lifted high and arms extend forward and parallel to the ground. In Ardha Navasana, hands interlace behind the neck and both back and shoulders are closer to the ground.To come into the pose, begin seated on the floor. Bend your knees, bringing the soles of the feet to the ground, and bring the palms to the back of the thighs. Begin to lean back as you shift your weight from your feet, eventually lifting the soles of the feet off the ground. Balance on the sitting bones, not leaning right back on to the tailbone. Lengthen the spine to broaden and lift the chest.",
     "type":["men","athletes"]
   },
-    
-  // {
-  //   "id": 2,
-  //   "sanskrit_name": "Ardha Navasana",
-  //   "english_name": "Half-Boat",
-  //   "advantages":["Tones your muscles",
-  //  " Build strength in your body",
-  //   "Improves your balance",
-  //   "Proper digestion and immunity",
-  //   "Increases confidence and self worth",
-  //   "It helps in stimulating glands",
-  //  " Increases the digestion power",
-  //   "Regulates the menstrual cycle and hormonal imbalance."],
-  //   "video":"https://youtu.be/CePu8V3vCvg",
-  //   "description":["Ardha navasana or half boat pose is a seated balancing posture that involves forward bend. Keeping the level of difficulty and amount of required strength in mind the pose lies in the intermediate level.Ardha asana is performed in the supine position. It targets working the abdominal muscles, adductor muscles, and hip flexors. Besides these, it also involves the quadriceps, hamstrings, and spine.Along with providing flexibility and strength to the body, it also strengthens and improves the mental health of the practitioner."],
-  //   "type":["kids","women"]
-    
-  // },
   {
     "id": 3,
     "sanskrit_name": "Dhanurasana",
@@ -66,19 +48,6 @@ const data = [
     "type":["men","women","kids","athletes"]
     
   },
-  // {
-  //   "id": 5,
-  //   "sanskrit_name": "Baddha Konasana",
-  //   "english_name": "Butterfly",
-  //   "advantages":[
-  //   "Strengthens and improves flexibility in the inner thighs, groins and the knees.",
-  //   "Helps prepare the hips and groins for meditative seated poses, which require more flexibility in these areas.",
-  //   "Helps to sooth menstrual discomfort and digestive complaints."],
-  //   "video":"https://youtu.be/hRcvSEtoecg",
-  //   "description":"Baddha Konasana (Sanskrit: बद्धकोणासन; IAST: baddhakoṇāsana), Bound Angle Pose, Throne Pose, Butterfly Pose, or Cobbler's Pose (after the typical sitting position of Indian cobblers when they work), and historically called Bhadrasana, is a seated asana in hatha yoga and modern yoga as exercise.",
-  //   "type":["kids","men"]
-    
-  // },
   {
     "id": 6,
     "sanskrit_name": "Ustrasana",
@@ -197,16 +166,6 @@ const data = [
     
     
   },
-  // {
-  //   "id": 14,
-  //   "sanskrit_name": "Ardha Pincha Mayurasana",
-  //   "english_name": "Dolphin",
-  //   "advantages":["Ardha Pincha Mayurasana calms your mind, and relieving depression."," It stretches shoulder, aches of the feet, Claves and hamstrings."," Strengthens your arms and legs."," Dolphin Pose helps to stimulate the reproductive organs, relieve menstrual discomfort, and reduce the symptoms of menopause."],
-  //   "video":"https://youtu.be/W9qEcTjmA78",
-  //   "description":"Ardha Pincha Mayurasana is a semi-inversion that brings more blood flow into the head, strengthens the upper body, and prepares the yogi for arm balances and inversions. Dolphin Pose is an excellent alternative to Downward Facing Dog because it relieves pressure on the wrists.",
-  //   "type":["women","athlete"]
-    
-  // },
   {
     "id": 15,
     "sanskrit_name": "Adho Mukha Svanasana",
@@ -331,21 +290,6 @@ const data = [
 
     
   },
-  // {
-  //   "id": 24,
-  //   "sanskrit_name": "Supta Kapotasana",
-  //   "english_name": "Pigeon",
-  //   "advantages":["Stretches the hips. Reclining pigeon acts as a hip opener pose.",
-  //  " Strengthens the thighs. It also provides deep stretches to the hamstrings while squeezing the knee towards the body.",
-  //  " Provides flexible lower back.",
-  //   "Improves blood circulation.",
-  //   "Better digestion.",
-  //   "Activates root and sacral chakra."],
-  //   "video":"https://youtu.be/WDOBkhKEuu0",
-  //   "description":"Supta Kapotasana is a gentle pose and a variation of the original Kapotasana. ... In English, it is known by two names, the Reclining Pigeon Pose or the Eye of the Needle pose. This asana is a great warm-up pose and prepares your body to perform other intense yoga poses.",
-  //   "type":["athlete","kids"]
-    
-  // }
   {
     "id": 25,
     "sanskrit_name": "Eka Pada Rajakapotasana",
@@ -403,18 +347,6 @@ const data = [
     "description": "The pose is entered from Tadasana. The hands are pressed palms together in prayer position behind the back, fingertips upwards. The feet are placed about a leg length apart, both legs remaining straight. The forward foot points directly forwards; the rear foot is turned forwards some 60 degrees. The hips are aligned at right angles to the feet, so that the body can move downwards in a forward bend straight over the front leg. The hands may be taken to the floor to intensify the stretch.",
     "type": ["kids","women","athletes"]
   },
-  // {
-  //   "id": 29,
-  //   "sanskrit_name": "Parsva Virabhadrasana",
-  //   "english_name": "Reverse Warrior",
-  //   "advantages": ["Calming of the mind.",
-  //   "Perseverance and heightened self-esteem.",
-  //   "Energizing of the body.",
-  //   "Improved balance."],
-  //   "video":"https://youtu.be/xpKG_OrBWLI" ,
-  //   "description": "Parsva Virabhadrasana, or reverse warrior, is a standing lateral bend that provides a deep side stretch. The name is derived from the Sanskrit parsva, meaning “side” or “flank”; Virabhadra, an incarnation of Shiva and a powerful warrior in Hindu mythology; and asana, meaning pose. It is also sometimes called viparita Virabhadrasana, or reverse warrior pose.",
-  //   "type": ["athletes","women","men"]
-  // },
   {
     "id": 30,
     "sanskrit_name": "Paschimottanasana",
@@ -441,24 +373,6 @@ const data = [
     "description":"Padmasana is the easiest and suitable asana for contemplation and meditation. The word Padmasana is a Sanskrit word which means “lotus flower” so it’s also known as the “Lotus pose”. It is so called because of the lotus-like formation which made by our legs during this asana.",
     "type":["women","men","kids"] 
   },
-  // {
-  //   "id": 32,
-  //   "sanskrit_name": "Ardha Matsyendrasana",
-  //   "english_name": "Half Lord of the Fishes",
-  //   "advantages": ["Spine: This is one of the best yoga poses for spinal health as it provides excellent compression and extension to the nerves and muscles of the spine. The compression and extension squeezed out sluggish blood of the spinal region to the heart and lungs, thus keep the spine in optimal condition.",
-  //   "Back: A large number of people are sufferings from back problems. Practicing this yoga pose will help you to get rid of all the back-related problems.",
-  //   "Aged people: Practicing this yoga at the elderly stage, reduces the tendency of adjoining vertebrae to fuse together, which is quite rampant at this stage, thus minimizes the vertebral problems at this stage.",
-  //   "Headache: It is good to relieve headaches because alternative compression helps to circulate blood to various organs of the body including the brain thus good for refreshing the mind.",
-  //   "Diabetes: For diabetes prevention and management, Ardha Matsyendrasana or half spinal twist pose acts as a panacea for sugar control. It activates the pancreas to release insulin.",
-  //   "Round Shoulders: Regular practice of this yoga pose is helpful to remove any tendency towards round shoulders.",
-  //   "Sciatica and slipped disc: It has been found very useful in the case of people who are suffering from sciatica and slipped disc.",
-  //   "Constipation: If this yoga pose performs first from the right twist, the fecal matter travels up the ascending colon along the transverse colon, and then downwards in the descending colon before being expelled from the body. Therefore an initial twist to the right followed by a left-hand twist compresses the colon and activates the nerves associated with intestinal peristalsis in the same order as the progressive movement of fecal matter.",
-  //   "Digestion: This asana enhances digestion as the compressing and twisting of the digestive system helps to release digestive juice thus promote digestion.",
-  //   "Urinary system: The adequate compressing ensures proper flow of nutrients, oxygen, and blood to the urinary region and good for the health of the urinary system and urinary tract infections."],
-  //   "video":"https://youtu.be/51EqCa6ZGCw ,",
-  //   "discription": "Matsyendrasana, Matsyendra's Pose or Lord of the Fishes Pose, is a seated twisting asana in hatha yoga and modern yoga as exercise. The full form is the difficult Paripurna Matsyendrasana. A common and easier variant is Ardha Matsyendrasana. The asana usually appears as a seated spinal twist with many variations, and in its half form is one of the twelve basic asanas in many systems of hatha yoga.",
-  //   "type": ["women","kids","athletes"]
-  // },
   {
     "id": 33,
     "sanskrit_name": "Salamba Sarvangasana",
@@ -549,35 +463,6 @@ const data = [
     "discription":"Chandra means moon. Both the sun and moon are highly symbolic in yoga. The moon symbolizes feminine energy. Yoga strives to balance the feminine and masculine. This is a pose where gentle balance and strength are required.", 
     "type":["athletes","kids","women"]
   },
-  // {
-  //   "id": 40,
-  //   "sanskrit_name": "Upavistha Konasana",
-  //   "english_name": "Side Splits",
-  //   "advantages":["Upavistha Konasana has excellent benefits for the adductor muscles of the groin which gets stretched.",
-  //   "The leg especially the hamstring muscles and the lower back are strengthened.",
-  //   "The bending and breathing intervals stimulate core muscles, toning the belly and improving the digestion process."], 
-  //   "video":"https://youtu.be/YtjKXDHd5hU" ,
-  //   "discription":"The name translates to Seated Angle pose. It's a gentle opener of many joints and can be incredibly grounding if your forehead is touching the ground or a block.",
-  //   "type": ["athletes","women","men"]
-  // },
-  // {
-  //   "id": 41,
-  //   "sanskrit_name": "Vrksasana",
-  //   "english_name": "Tree",
-  //   "advantages":["Strengthens your spine by improving your posture. Balance and add more poise to your daily life.",
-  //   "It aids and improves your neuro-muscular coordination. The deep-breathing helps in sustaining your mental-stability with physical compatibility.",
-  //   "Tone up your calves, thighs and leg muscles by holding on to this pose. The pose looks simple but if you lack balance in your life, you may not find it very intriguing. With patience comes the muscles and better health.",
-  //   "This pose deepens your thorax. Make progress in refining yourself with Vrikshasana.",
-  //   "Improve your power of balance- mental, physical and emotional. Align all the three to lead a comfortable life, or else you will be the pendulum going left and right. To be on your path, you must connect with yourself.",
-  //   "The sense like the eyes, ears are also more active when you build your focus while performing this pose.",
-  //   "It gives relief from sciatica and reduces the condition of flat feet. Among the many benefits that Yoga brings, the most beneficial is the natural way of healing.",
-  //   "Strengthen the bones of the legs and hips, the ligaments of ankles and feet. This pose helps to nurture the body by adjusting the movements.",
-  //   "Establish public stability. Learn how to stay calm and composed even in tough situations.",
-  //   "Highly improves focus and concentration with the dhyana practice."],
-  //   "video":"https://youtu.be/Fr5kiIygm0c" ,
-  //   "discription":"Vrikshasana or Tree Pose is a balancing asana. It is one of the very few standing poses in medieval hatha yoga, and remains popular in modern yoga as exercise.",
-  //   "type":["women","kids"] 
-  // },
   {
     "id": 42,
     "sanskrit_name": "Trikonasana",
@@ -657,22 +542,6 @@ const data = [
     "video":"https://youtube.com/embed/_NFl1fOoNdg",
     "description":"In the general form of the asana, the practitioner has hands and feet on the floor, and the abdomen arches up toward the sky. It may be entered from a supine position or through a less rigorous supine backbend, such as Setu Bandha Sarvangasana (Bridge Pose). Some advanced practitioners can move into Wheel Pose by dropping back from Tadasana(Mountain Pose), or by standing with the back to a wall, reaching arms overhead and walking hands down the wall toward the floor." ,
     "type":["kids","women","men","athletes"]
-  },
-  // {
-  //   "id": 48,
-  //   "sanskrit_name": "Camatkarasana",
-  //   "english_name": "Wild Thing",
-  //   "advantages":["This pose brings flexibility to the spine and shoulder.",
-  //   "Camatkarasana opens the lungs, chest, shoulders, and throat.",
-  //   "This asana also stimulates the Anahata (heart chakra).",
-  //   "It builds strength in the upper back.",
-  //   "As a backbend it is energizing, aids digestion, eases stress, anxiety, tension, and boosts the immune system.",
-  //   "Wild Thing Pose helps boost energy in the body.",
-  //   "It provides a good sense of balance.",
-  //   "It not only stretches the body but also makes strong too."], 
-  //   "video":"https://youtu.be/XNzE5a0hL0U",
-  //   "description":"The pose is a balancing posture with the body, both legs, and both arms straight, the body on one side. The upper arm is raised as high as possible. The upper leg may be rested on the lower leg, or for the full pose (sometimes called Eka Pada Vasisthasana, One-legged Side Plank ) may be raised as high as possible; the upper hand may grasp the foot (sometimes called Vasisthasana B), and the gaze may be directed to the upper hand." ,
-  //   "type":["athletes","women","men","kids"]
-  // }
+  }
 ]
 
